@@ -12,7 +12,7 @@
     display: none;
   }
   
-  @media screen and (min-width: 701px) {
+  @media screen and (min-width: 400px) {
     #div-mobile {
       display: none;
     }

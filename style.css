@@ -8,12 +8,18 @@
          font-style: normal;
   }
 
-  @media (min-width: 390px) {
-	body 
-    { 
-        display: none; 
+  #div-desktop {
+    display: none;
+  }
+  
+  @media screen and (min-width: 701px) {
+    #div-mobile {
+      display: none;
     }
-}
+    #div-desktop {
+      display: block;
+    }
+  }
 body{
         margin-left: 350px;
         margin-right: 350px;

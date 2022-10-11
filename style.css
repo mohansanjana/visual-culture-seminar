@@ -8,7 +8,7 @@
          font-style: normal;
   }
 
-  @media (min-width: 400px) {
+  @media (min-width: 390px) {
 	body 
     { 
         display: none; 

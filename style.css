@@ -98,8 +98,8 @@
 }
 .divider{
     width: 120%;
-    size: 1px;
-    color: #bbbbbb;
+    size: 0.5px;
+    color: #d0d0d0;
     margin-left: 16px;
 }
 

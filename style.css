@@ -21,12 +21,24 @@
     }
   }
 
-  body{
+    body{
         margin-left: 12px;
         margin-right: 12px;
         margin-bottom: 20px;
         margin-top: 32px;
+    }
+
+.desktop{
+    margin: auto;
+    align-items: center;
+    font-family: 'GeneralSans-Variable';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    font-display: swap;
+    color: #262626;
 }
+
 
 #btnlanguage{
     font-size: 16px;
@@ -84,7 +96,7 @@
     color: #262626;
 }
 .divider{
-    width: 321px;
+    width: 100%;
     size: 1px;
     color: #DCDCDC;
     margin-left: 16px;

@@ -36,7 +36,7 @@
 }
 
 #socialicons{
-    font-size: 16px;
+    font-size: 20px;
     color:#777777;
 }
 .avatar img{
@@ -82,4 +82,10 @@
     font-size: 16px;
     font-display: swap;
     color: #262626;
+}
+.divider{
+    width: 321px;
+    size: 1px;
+    color: #DCDCDC;
+    margin-left: 16px;
 }

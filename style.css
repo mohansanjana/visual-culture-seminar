@@ -25,7 +25,7 @@
         margin-left: 12px;
         margin-right: 12px;
         margin-bottom: 20px;
-        margin-top: 16px;
+        margin-top: 32px;
     }
 
 .desktop{
@@ -101,8 +101,9 @@
 }
 .divider{
     width: 105%;
-    size: 0.5px;
-    color: #d0d0d0;
+    height: 1px;
+    background-color: #787878;
+    border: none;
     margin-left: 16px;
     margin-bottom: 16px;
 }

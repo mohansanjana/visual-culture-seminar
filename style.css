@@ -41,13 +41,13 @@
 
 #btnlanguage{
     font-size: 15px;
-    color:#608ce5;
+    color:#acacac;
     margin-left: 6px;  
 }
 
 #socialicons{
     font-size: 20px;
-    color:#d4bb2c;
+    color:#777777;
     margin-bottom: 16px;
 }
 .avatar img{
@@ -102,7 +102,7 @@
 .divider{
     width: 105%;
     height: 1px;
-    background-color: #787878;
+    background-color: #535353;
     border: none;
     margin-left: 16px;
     margin-bottom: 16px;

@@ -60,7 +60,10 @@
     display: flex;
     justify-content: flex-start;
     align-items:  top;
-    padding: 40px 20px ;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 10px
+
 }
 .name{
     font-family: 'Inter Tight';
@@ -102,5 +105,11 @@
     color: #d0d0d0;
     margin-left: 16px;
     margin-bottom: 16px;
+}
+.profileimage{
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    align-items: top;
 }
 

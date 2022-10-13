@@ -29,8 +29,9 @@
     }
 
 .desktop{
-    margin: auto;
-    align-items: center;
+    margin-top: 400px;
+    margin-bottom: 200px;
+    text-align: center;
     font-family: 'GeneralSans-Variable';
     font-style: normal;
     font-weight: 400;
